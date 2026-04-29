@@ -22,12 +22,6 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Mayank_Mohanty/">
-    <img src="https://leetcard.jacoblin.cool/Mayank_Mohanty?theme=dark&ext=heatmap&font=Baloo%202&border=0" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Mayank_Mohanty/">
-    <img src="assets/leetcode.svg" width="260"/>
+    <img src="assets/leetcode.svg" />
   </a>
 </p>
