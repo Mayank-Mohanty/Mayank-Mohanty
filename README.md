@@ -31,7 +31,3 @@
     <img src="assets/leetcode.svg" width="260"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Solving+DSA+Daily+🚀;Consistency+%3E+Motivation;Road+to+Top+1%25" />
-</p>
